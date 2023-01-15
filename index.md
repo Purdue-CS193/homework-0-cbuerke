@@ -9,4 +9,4 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ### Header 3
 
 This word is **bolded** and this one is in _Italics_.
-This a 'code' word, I guess.
+This a `code` word, I guess.
